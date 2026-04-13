@@ -1,0 +1,501 @@
+id,estacion_origen,estacion_destino,distancia_km,num_paradas,trasbordos,linea,hora_salida,dia_semana,hora_pico,fin_de_semana,factor_congestion,tiempo_viaje_min
+0,Escuela Militar,Calle 72,1.161,1,1,TRANSV,13,1,0,0,1.3,9.63
+1,Calle 63,Calle 100,3.463,11,3,TRANSV,22,0,0,0,1.1,47.02
+2,Cardio Infantil,Toberin,1.793,2,0,C12,12,4,0,0,1.4,10.25
+3,Biblioteca,Calle 26,7.308,12,1,TRANSV,22,3,0,0,1.1,52.3
+4,Las Aguas,Niza Calle 127,11.347,5,3,B11,10,5,0,1,1.3,50.07
+5,Portal Américas,Portal Sur,11.097,3,0,C12,15,0,0,0,1.3,35.83
+6,Tintal,Calle 100,10.125,6,0,H19,13,6,0,1,1.3,41.48
+7,Universidades,Biblioteca,6.573,2,2,G14,7,4,1,0,2.0,40.3
+8,Escuela Militar,Calle 76,2.683,15,0,H19,23,1,0,0,1.0,42.61
+9,Cardio Infantil,General Santander,15.959,13,1,H19,7,6,1,1,2.0,97.28
+10,Calle 100,Alquería,8.806,5,2,G14,16,1,1,0,1.6,47.86
+11,Banderas,Ricaurte,7.503,11,1,H19,7,4,1,0,2.0,60.81
+12,Molinos,General Santander,6.152,3,1,G14,17,2,1,0,2.1,37.64
+13,Gratamira,Mazuren,8.411,4,2,B11,15,3,0,0,1.3,36.65
+14,Alcalá,Calle 8,12.858,15,3,P14,15,1,0,0,1.3,78.5
+15,Alquería,El Tiempo Maloka,3.184,3,2,H19,9,1,1,0,1.8,26.6
+16,Venecia,Museo del Oro,4.241,15,1,P14,17,2,1,0,2.1,58.45
+17,Calle 63,Portal Usme,17.151,8,0,B11,6,6,1,1,1.5,67.39
+18,Flores,Marly,2.124,13,0,TRANSV,18,4,1,0,2.3,41.89
+19,Tintal,Alquería,2.883,10,0,G14,21,2,0,0,1.2,31.1
+20,Calle 72,Biblioteca,13.602,13,2,H19,15,0,0,0,1.3,79.85
+21,Museo del Oro,Calle 45,4.84,8,1,B11,13,4,0,0,1.3,36.37
+22,Av. Eldorado,Calle 100,6.092,14,1,TRANSV,14,6,0,1,1.2,51.88
+23,Flores,Tintal,9.033,13,0,C12,22,6,0,1,1.1,47.09
+24,Niza Calle 127,Gratamira,5.997,8,2,B11,8,2,1,0,2.2,53.73
+25,General Santander,Mazuren,14.767,4,3,P14,7,0,1,0,2.0,81.4
+26,Alcalá,Biblioteca,17.899,13,3,C12,9,5,1,1,1.8,99.45
+27,Biblioteca,Calle 45,10.861,5,1,P14,18,1,1,0,2.3,67.28
+28,Avenida Rojas,Marsella,6.018,11,3,TRANSV,16,3,1,0,1.6,58.03
+29,Calle 72,Sevillana,10.537,4,1,B11,15,0,0,0,1.3,40.78
+30,Venecia,Calle 8,2.925,1,0,B11,6,1,1,0,1.5,10.92
+31,Cardio Infantil,Banderas,16.204,2,3,P14,12,2,0,0,1.4,68.37
+32,Ricaurte,Biblioteca,6.236,3,3,TRANSV,23,4,0,0,1.0,31.95
+33,General Santander,El Dorado,7.879,13,0,G14,11,0,0,0,1.2,49.74
+34,Museo del Oro,Banderas,10.345,7,0,G14,19,6,1,1,1.9,55.41
+35,Calle 100,Mazuren,3.242,7,0,TRANSV,15,6,0,1,1.3,24.16
+36,General Santander,Calle 26,3.182,4,3,P14,19,1,1,0,1.9,34.23
+37,Marly,Portal 80,10.205,8,0,C12,7,3,1,0,2.0,56.82
+38,Mazuren,Biblioteca,18.889,14,1,B11,7,6,1,1,2.0,103.87
+39,Calle 45,Museo del Oro,4.84,8,3,G14,11,6,0,1,1.2,42.35
+40,Mazuren,Marly,9.791,7,3,B11,17,2,1,0,2.1,72.07
+41,Portal 80,Las Aguas,11.184,12,3,TRANSV,22,5,0,1,1.1,63.63
+42,Flores,Ricaurte,6.622,5,0,C12,6,4,1,0,1.5,32.21
+43,Gratamira,Mazuren,8.411,1,1,P14,20,4,0,0,1.4,29.54
+44,Mazuren,Portal Usme,23.47,2,0,C12,7,4,1,0,2.0,91.94
+45,General Santander,Marsella,4.168,2,0,P14,12,4,0,0,1.4,16.07
+46,Calle 76,Pepe Sierra,3.831,7,2,TRANSV,23,4,0,0,1.0,32.81
+47,Sevillana,Ricaurte,3.002,11,2,TRANSV,15,1,0,0,1.3,43.94
+48,Alquería,Calle 63,6.944,11,2,TRANSV,14,3,0,0,1.2,52.64
+49,Alcalá,Portal Norte,5.846,8,0,P14,23,0,0,0,1.0,29.63
+50,Molinos,Ricaurte,8.144,9,0,H19,9,2,1,0,1.8,52.35
+51,General Santander,Tintal,6.509,5,2,C12,19,6,1,1,1.9,42.78
+52,Calle 76,Portal Usme,17.769,1,0,TRANSV,22,2,0,0,1.1,39.19
+53,Calle 63,Portal Sur,11.132,2,2,B11,22,1,0,0,1.1,38.85
+54,Portal 80,Calle 76,5.559,4,2,TRANSV,15,1,0,0,1.3,33.6
+55,Av. Eldorado,El Dorado,0.894,5,3,B11,7,5,1,1,2.0,27.98
+56,Portal Sur,Cardio Infantil,18.538,1,2,H19,9,5,1,1,1.8,68.56
+57,Calle 45,Universidades,4.637,9,0,TRANSV,18,4,1,0,2.3,43.54
+58,Calle 72,Alcalá,4.559,15,0,TRANSV,9,4,1,0,1.8,54.21
+59,Patio Bonito,Niza Calle 127,11.307,9,0,C12,18,1,1,0,2.3,76.72
+60,Avenida Rojas,Tintal,5.181,15,1,B11,16,1,1,0,1.6,57.58
+61,Calle 100,Patio Bonito,11.529,13,1,P14,18,4,1,0,2.3,89.11
+62,General Santander,Calle 45,7.301,13,1,C12,18,0,1,0,2.3,68.47
+63,Portal Américas,Museo del Oro,12.019,13,1,TRANSV,12,2,0,0,1.4,67.28
+64,Calle 100,Alquería,8.806,14,1,B11,20,1,0,0,1.4,65.09
+65,Universidades,Banderas,9.198,5,1,C12,12,0,0,0,1.4,44.75
+66,Alquería,Portal Américas,7.759,5,3,B11,13,2,0,0,1.3,44.56
+67,Molinos,Portal Américas,13.096,1,2,B11,13,1,0,0,1.3,47.18
+68,Cardio Infantil,Calle 72,6.787,10,2,G14,16,5,1,1,1.6,53.17
+69,Museo del Oro,Calle 76,7.565,9,1,B11,17,4,1,0,2.1,57.29
+70,Sevillana,Cardio Infantil,16.91,12,1,G14,5,4,0,0,1.1,72.42
+71,Patio Bonito,Las Aguas,9.246,2,2,TRANSV,15,4,0,0,1.3,39.88
+72,Calle 72,Gratamira,6.673,9,3,H19,18,2,1,0,2.3,65.15
+73,Portal 80,Parque El Tunal,14.428,3,3,C12,18,5,1,1,2.3,86.05
+74,Marly,Escuela Militar,3.115,10,0,H19,17,4,1,0,2.1,36.45
+75,Avenida Rojas,Portal 80,1.228,4,2,G14,23,4,0,0,1.0,20.66
+76,Universidades,Las Aguas,1.588,8,3,TRANSV,11,4,0,0,1.2,35.84
+77,Calle 45,Pepe Sierra,6.797,5,1,P14,15,0,0,0,1.3,33.77
+78,Avenida Rojas,Calle 8,9.202,13,0,C12,9,0,1,0,1.8,65.8
+79,General Santander,El Dorado,7.879,10,1,B11,19,3,1,0,1.9,55.81
+80,Tintal,Av. Eldorado,4.033,7,0,C12,9,5,1,1,1.8,30.63
+81,Calle 100,Las Aguas,9.451,4,0,C12,21,3,0,0,1.2,33.36
+82,Biblioteca,General Santander,4.238,15,3,B11,19,1,1,0,1.9,66.86
+83,Portal Usme,Parque El Tunal,5.649,10,3,H19,19,4,1,0,1.9,57.88
+84,Biblioteca,Las Aguas,6.595,15,2,C12,20,3,0,0,1.4,62.9
+85,General Santander,Portal 80,11.406,13,1,P14,20,5,0,1,1.4,63.87
+86,Portal Sur,Universidades,5.036,2,2,TRANSV,14,1,0,0,1.2,26.01
+87,Portal Américas,Gratamira,8.708,15,1,P14,7,1,1,0,2.0,76.91
+88,Calle 8,Alquería,3.344,12,3,C12,11,0,0,0,1.2,49.67
+89,Marsella,Portal Américas,8.313,9,1,G14,18,0,1,0,2.3,65.59
+90,Marsella,Tintal,3.401,15,3,P14,5,6,0,1,1.1,56.03
+91,El Tiempo Maloka,Portal Norte,13.686,6,3,H19,17,6,1,1,2.1,83.03
+92,Molinos,Biblioteca,1.919,13,1,P14,12,3,0,0,1.4,41.6
+93,Portal Sur,Las Aguas,5.204,8,3,B11,17,2,1,0,2.1,53.52
+94,Calle 45,El Tiempo Maloka,7.401,15,3,C12,22,0,0,0,1.1,65.2
+95,Venecia,Parque El Tunal,1.223,11,3,B11,7,5,1,1,2.0,43.67
+96,Calle 63,El Tiempo Maloka,6.871,3,2,B11,13,3,0,0,1.3,33.77
+97,Ricaurte,El Tiempo Maloka,5.555,6,3,H19,17,2,1,0,2.1,50.62
+98,Sevillana,Pepe Sierra,13.751,8,2,B11,22,0,0,0,1.1,58.27
+99,Calle 8,Alcalá,12.858,13,0,TRANSV,6,6,1,1,1.5,66.61
+100,General Santander,Calle 26,3.182,14,1,B11,9,1,1,0,1.8,49.56
+101,El Tiempo Maloka,Calle 72,6.851,10,2,C12,19,5,1,1,1.9,56.4
+102,Patio Bonito,Calle 45,10.531,10,1,P14,8,6,1,1,2.2,71.46
+103,Avenida Rojas,Calle 100,6.573,10,3,B11,14,4,0,0,1.2,51.72
+104,Alquería,Calle 26,2.827,2,2,P14,12,0,0,0,1.4,20.83
+105,Niza Calle 127,Calle 72,4.773,13,3,P14,6,2,1,0,1.5,59.21
+106,Patio Bonito,Alcalá,12.964,9,3,TRANSV,15,0,0,0,1.3,73.1
+107,El Dorado,Calle 100,6.547,7,1,H19,19,5,1,1,1.9,44.64
+108,Museo del Oro,Marly,4.095,12,3,P14,13,4,0,0,1.3,52.86
+109,Universidades,Museo del Oro,1.337,14,2,TRANSV,23,2,0,0,1.0,45.65
+110,General Santander,Pepe Sierra,12.817,5,3,G14,12,6,0,1,1.4,51.62
+111,Parque El Tunal,Escuela Militar,11.785,11,3,G14,15,0,0,0,1.3,70.08
+112,Gratamira,Marly,8.554,8,2,C12,16,6,1,1,1.6,52.91
+113,Portal Américas,Portal Sur,11.097,15,0,P14,13,4,0,0,1.3,71.82
+114,Portal Usme,Calle 26,11.892,2,1,C12,18,3,1,0,2.3,63.24
+115,El Tiempo Maloka,Av. Eldorado,1.445,8,1,B11,7,2,1,0,2.0,29.87
+116,Alquería,General Santander,4.291,5,3,TRANSV,23,2,0,0,1.0,33.05
+117,Biblioteca,Portal Usme,4.584,6,2,G14,22,2,0,0,1.1,32.01
+118,Universidades,Portal Sur,5.036,5,1,H19,12,0,0,0,1.4,31.75
+119,Gratamira,Calle 72,6.673,12,1,P14,10,1,0,0,1.3,52.35
+120,El Tiempo Maloka,Portal Sur,10.054,12,2,P14,21,4,0,0,1.2,63.72
+121,Calle 100,Ricaurte,9.843,5,2,C12,16,1,1,0,1.6,50.21
+122,Portal Norte,Biblioteca,23.677,3,2,H19,6,0,1,0,1.5,93.17
+123,Calle 63,Av. Eldorado,5.432,2,3,B11,23,2,0,0,1.0,26.34
+124,El Tiempo Maloka,Las Aguas,7.793,6,3,C12,6,2,1,0,1.5,51.29
+125,Calle 72,Alcalá,4.559,7,0,G14,7,4,1,0,2.0,37.73
+126,Flores,Calle 45,1.117,13,1,P14,14,0,0,0,1.2,38.96
+127,Calle 72,Parque El Tunal,12.628,13,3,G14,12,6,0,1,1.4,74.64
+128,Las Aguas,Universidades,1.588,5,0,P14,18,2,1,0,2.3,19.84
+129,Calle 76,Calle 100,2.758,13,0,C12,11,2,0,0,1.2,38.84
+130,Calle 45,Sevillana,8.034,3,0,P14,7,1,1,0,2.0,37.14
+131,Marsella,Universidades,3.226,12,0,P14,20,2,0,0,1.4,39.08
+132,Calle 8,Avenida Rojas,9.202,12,1,H19,19,0,1,0,1.9,67.01
+133,Sevillana,Niza Calle 127,13.977,11,1,C12,18,0,1,0,2.3,97.12
+134,Flores,Portal 80,8.68,14,1,C12,7,0,1,0,2.0,72.12
+135,Avenida Rojas,Calle 76,4.98,12,0,P14,14,3,0,0,1.2,43.5
+136,Universidades,Avenida Rojas,8.802,12,3,G14,13,4,0,0,1.3,63.51
+137,Las Aguas,Pepe Sierra,10.677,10,2,B11,18,5,1,1,2.3,78.22
+138,Niza Calle 127,Sevillana,13.977,1,0,B11,12,5,0,1,1.4,39.72
+139,Portal Sur,Venecia,0.846,1,3,C12,20,4,0,0,1.4,16.66
+140,Portal Sur,Marly,8.689,10,3,G14,20,0,0,0,1.4,61.73
+141,Banderas,Museo del Oro,10.345,6,1,H19,8,6,1,1,2.2,64.12
+142,Portal Américas,Museo del Oro,12.019,12,3,G14,14,5,0,1,1.2,63.38
+143,Biblioteca,Cardio Infantil,20.096,8,2,B11,15,2,0,0,1.3,80.99
+144,Calle 72,Marsella,6.969,14,3,P14,5,5,0,1,1.1,60.6
+145,Marsella,Mazuren,11.3,4,3,P14,16,4,1,0,1.6,59.93
+146,Escuela Militar,Las Aguas,6.222,13,1,B11,11,2,0,0,1.2,49.89
+147,Portal 80,Universidades,9.969,15,0,TRANSV,20,0,0,0,1.4,62.78
+148,Escuela Militar,Niza Calle 127,5.925,13,0,C12,10,2,0,0,1.3,48.52
+149,Biblioteca,Marsella,8.346,2,0,C12,8,3,1,0,2.2,42.22
+150,Flores,Av. Eldorado,5.652,15,2,TRANSV,14,4,0,0,1.2,59.35
+151,Marsella,El Dorado,3.711,8,1,C12,19,4,1,0,1.9,38.36
+152,Tintal,Calle 26,5.709,15,1,P14,21,5,0,1,1.2,52.71
+153,Alcalá,Portal 80,7.07,13,2,G14,15,6,0,1,1.3,57.09
+154,Portal Norte,Avenida Rojas,11.456,12,3,H19,23,4,0,0,1.0,65.58
+155,Flores,Universidades,5.377,9,3,G14,16,2,1,0,1.6,50.94
+156,Universidades,Gratamira,7.753,14,3,C12,12,4,0,0,1.4,71.6
+157,Calle 8,Museo del Oro,2.66,1,3,H19,20,5,0,1,1.4,21.4
+158,Tintal,Flores,9.033,8,2,B11,9,4,1,0,1.8,58.37
+159,Calle 100,Universidades,9.139,2,1,P14,19,0,1,0,1.9,44.93
+160,Marsella,Flores,6.138,2,3,G14,13,2,0,0,1.3,31.76
+161,Pepe Sierra,Banderas,14.004,14,2,TRANSV,22,3,0,0,1.1,76.01
+162,Escuela Militar,El Dorado,6.452,14,0,P14,6,4,1,0,1.5,55.85
+163,General Santander,Avenida Rojas,10.183,4,0,TRANSV,7,3,1,0,2.0,49.06
+164,Escuela Militar,Calle 100,3.491,8,0,C12,14,0,0,0,1.2,29.05
+165,Gratamira,Mazuren,8.411,5,1,H19,16,3,1,0,1.6,44.11
+166,General Santander,Molinos,6.152,7,1,P14,10,1,0,0,1.3,38.51
+167,Pepe Sierra,Escuela Militar,4.691,14,1,G14,12,3,0,0,1.4,53.91
+168,Calle 8,El Tiempo Maloka,6.506,11,0,H19,19,2,1,0,1.9,51.9
+169,Universidades,Portal 80,9.969,11,3,P14,10,0,0,0,1.3,63.92
+170,Banderas,Niza Calle 127,12.93,5,2,TRANSV,18,5,1,1,2.3,73.8
+171,Universidades,Avenida Rojas,8.802,4,1,G14,20,0,0,0,1.4,37.21
+172,Tintal,Venecia,7.903,6,2,P14,14,5,0,1,1.2,39.47
+173,Toberin,Marsella,14.118,5,0,B11,23,6,0,1,1.0,37.46
+174,Niza Calle 127,El Dorado,6.384,14,2,H19,12,4,0,0,1.4,61.23
+175,Calle 8,Calle 26,2.311,10,0,H19,9,5,1,1,1.8,33.01
+176,Escuela Militar,Cardio Infantil,7.896,5,2,G14,6,4,1,0,1.5,44.21
+177,Calle 63,Pepe Sierra,4.675,15,3,H19,15,5,0,1,1.3,61.61
+178,Marly,Ricaurte,5.724,3,2,P14,16,4,1,0,1.6,33.51
+179,Calle 45,Portal Sur,9.428,15,2,G14,14,5,0,1,1.2,70.43
+180,Calle 72,El Tiempo Maloka,6.851,2,3,C12,12,6,0,1,1.4,34.99
+181,Biblioteca,Patio Bonito,10.393,2,0,G14,5,2,0,0,1.1,26.08
+182,Universidades,Patio Bonito,7.66,11,3,TRANSV,13,4,0,0,1.3,57.78
+183,Escuela Militar,Patio Bonito,10.785,2,0,TRANSV,12,3,0,0,1.4,36.24
+184,Calle 76,Biblioteca,13.185,6,0,P14,12,5,0,1,1.4,47.37
+185,Escuela Militar,Universidades,6.254,15,3,TRANSV,14,5,0,1,1.2,63.53
+186,Calle 72,Flores,2.124,1,0,B11,14,3,0,0,1.2,7.8
+187,Calle 100,Sevillana,12.569,15,3,P14,9,3,1,0,1.8,94.57
+188,Patio Bonito,Biblioteca,10.393,7,0,P14,9,3,1,0,1.8,53.15
+189,El Dorado,Escuela Militar,6.452,7,2,H19,6,5,1,1,1.5,40.97
+190,Ricaurte,Universidades,1.773,8,2,C12,16,0,1,0,1.6,33.52
+191,Molinos,Banderas,12.366,1,0,G14,13,1,0,0,1.3,36.77
+192,Universidades,Pepe Sierra,10.339,11,2,C12,5,0,0,0,1.1,58.69
+193,General Santander,Calle 63,8.781,13,1,P14,11,0,0,0,1.2,55.39
+194,Venecia,Ricaurte,3.917,14,1,C12,15,6,0,1,1.3,48.14
+195,Niza Calle 127,Portal Norte,6.601,5,2,C12,9,4,1,0,1.8,44.77
+196,Marly,Calle 72,4.249,11,2,B11,9,0,1,0,1.8,50.04
+197,General Santander,Niza Calle 127,13.0,6,0,B11,10,2,0,0,1.3,49.2
+198,Calle 63,Museo del Oro,6.648,9,3,B11,7,3,1,0,2.0,61.17
+199,Patio Bonito,Portal Usme,14.11,10,1,B11,19,4,1,0,1.9,79.39
+200,Calle 76,Cardio Infantil,6.925,12,3,TRANSV,21,2,0,0,1.2,59.12
+201,Toberin,Alcalá,4.027,8,0,G14,18,5,1,1,2.3,37.77
+202,El Dorado,Las Aguas,7.826,2,1,B11,15,4,0,0,1.3,31.04
+203,Alcalá,Flores,6.675,5,2,P14,23,4,0,0,1.0,35.26
+204,Tintal,Calle 76,7.539,9,3,H19,19,4,1,0,1.9,61.07
+205,Calle 100,Calle 63,3.463,14,1,TRANSV,22,5,0,1,1.1,44.93
+206,Museo del Oro,Universidades,1.337,15,3,C12,18,2,1,0,2.3,55.79
+207,Alquería,Museo del Oro,4.974,12,2,B11,15,3,0,0,1.3,51.44
+208,Sevillana,Tintal,7.336,3,0,TRANSV,20,0,0,0,1.4,28.8
+209,Pepe Sierra,Calle 100,1.228,7,1,B11,16,6,1,1,1.6,26.01
+210,Biblioteca,Mazuren,18.889,10,0,P14,22,2,0,0,1.1,68.71
+211,Marsella,Banderas,6.437,14,0,TRANSV,18,6,1,1,2.3,64.14
+212,Portal 80,Calle 76,5.559,5,1,H19,8,4,1,0,2.2,42.02
+213,Flores,El Dorado,6.506,4,2,B11,16,6,1,1,1.6,37.72
+214,Calle 72,Portal 80,7.455,10,0,C12,18,6,1,1,2.3,56.58
+215,Niza Calle 127,Portal Sur,15.634,1,2,C12,13,5,0,1,1.3,48.83
+216,Portal Américas,Patio Bonito,3.764,1,3,C12,9,4,1,0,1.8,27.47
+217,Alcalá,Calle 45,7.791,12,1,TRANSV,5,0,0,0,1.1,50.77
+218,Tintal,Museo del Oro,7.786,8,2,H19,10,2,0,0,1.3,47.49
+219,Gratamira,Venecia,10.868,10,1,B11,6,1,1,0,1.5,61.78
+220,Calle 76,Mazuren,5.738,11,3,B11,13,3,0,0,1.3,57.07
+221,El Dorado,Calle 76,4.174,8,0,G14,13,1,0,0,1.3,29.29
+222,Banderas,Las Aguas,10.768,2,2,H19,23,3,0,0,1.0,36.01
+223,Cardio Infantil,General Santander,15.959,7,1,P14,6,0,1,0,1.5,64.23
+224,Avenida Rojas,Ricaurte,8.225,13,2,C12,13,2,0,0,1.3,61.11
+225,Calle 72,Portal Norte,10.387,8,1,TRANSV,18,1,1,0,2.3,74.04
+226,Tintal,Biblioteca,10.095,12,2,C12,21,4,0,0,1.2,62.36
+227,Alcalá,Marsella,10.386,14,0,TRANSV,6,3,1,0,1.5,63.92
+228,Universidades,Alcalá,11.33,14,3,H19,23,3,0,0,1.0,68.04
+229,Escuela Militar,Marsella,6.648,5,2,B11,17,0,1,0,2.1,49.33
+230,Calle 45,Escuela Militar,2.113,8,3,TRANSV,16,0,1,0,1.6,38.45
+231,Calle 100,Sevillana,12.569,7,0,P14,17,4,1,0,2.1,70.83
+232,Alquería,Avenida Rojas,5.931,12,1,H19,12,2,0,0,1.4,50.66
+233,Alcalá,Portal Usme,22.478,11,1,B11,21,4,0,0,1.2,82.52
+234,Banderas,Patio Bonito,1.828,12,0,TRANSV,9,1,1,0,1.8,37.37
+235,Flores,Portal Sur,10.309,4,0,C12,9,6,1,1,1.8,45.33
+236,Marly,Av. Eldorado,6.604,8,2,P14,23,3,0,0,1.0,38.53
+237,Escuela Militar,Gratamira,7.179,3,3,G14,7,3,1,0,2.0,48.48
+238,Escuela Militar,Avenida Rojas,7.618,13,2,H19,23,0,0,0,1.0,54.73
+239,Av. Eldorado,Alcalá,7.695,5,0,G14,19,0,1,0,1.9,43.05
+240,Patio Bonito,Portal 80,7.157,2,3,TRANSV,7,4,1,0,2.0,44.49
+241,Universidades,Niza Calle 127,10.732,9,1,TRANSV,6,3,1,0,1.5,58.45
+242,Gratamira,Calle 76,4.667,8,3,P14,9,0,1,0,1.8,49.27
+243,Calle 100,Banderas,13.296,12,1,B11,21,5,0,1,1.2,64.22
+244,Cardio Infantil,Sevillana,16.91,12,1,G14,19,4,1,0,1.9,94.2
+245,Patio Bonito,Tintal,1.479,15,2,H19,17,3,1,0,2.1,51.61
+246,Niza Calle 127,Mazuren,2.435,13,2,TRANSV,15,0,0,0,1.3,46.6
+247,Calle 100,Parque El Tunal,14.701,11,1,G14,14,2,0,0,1.2,64.86
+248,Portal Américas,Pepe Sierra,15.849,10,2,TRANSV,9,2,1,0,1.8,95.65
+249,Alquería,Calle 63,6.944,10,3,TRANSV,7,2,1,0,2.0,65.34
+250,Portal Américas,Calle 63,14.332,11,3,TRANSV,21,0,0,0,1.2,70.28
+251,Av. Eldorado,Patio Bonito,5.456,1,1,H19,14,1,0,0,1.2,20.6
+252,Portal Américas,Av. Eldorado,9.163,4,0,C12,9,1,1,0,1.8,46.87
+253,Portal 80,Calle 100,6.673,9,2,P14,21,0,0,0,1.2,47.89
+254,Calle 76,Calle 63,2.493,10,1,G14,9,1,1,0,1.8,37.22
+255,Calle 76,Calle 45,4.159,12,2,G14,6,3,1,0,1.5,50.07
+256,General Santander,Universidades,2.674,10,1,H19,19,1,1,0,1.9,39.84
+257,Avenida Rojas,El Dorado,2.321,15,3,C12,16,5,1,1,1.6,55.9
+258,Universidades,Portal 80,9.969,13,3,G14,21,4,0,0,1.2,69.31
+259,Calle 45,Ricaurte,6.069,13,2,P14,9,6,1,1,1.8,61.47
+260,Mazuren,El Dorado,8.713,14,0,H19,22,0,0,0,1.1,52.55
+261,Portal 80,Pepe Sierra,6.793,13,1,C12,13,3,0,0,1.3,54.08
+262,Museo del Oro,Pepe Sierra,11.099,15,0,C12,19,2,1,0,1.9,72.48
+263,Marsella,Mazuren,11.3,7,3,P14,16,1,1,0,1.6,63.35
+264,Pepe Sierra,Tintal,10.92,4,2,B11,15,0,0,0,1.3,45.84
+265,Flores,Calle 63,1.007,1,1,H19,20,5,0,1,1.4,8.77
+266,El Tiempo Maloka,Las Aguas,7.793,10,2,B11,7,0,1,0,2.0,66.71
+267,Ricaurte,Flores,6.622,9,0,TRANSV,21,3,0,0,1.2,36.5
+268,Portal 80,General Santander,11.406,5,3,B11,6,1,1,0,1.5,57.72
+269,Escuela Militar,Calle 76,2.683,8,3,B11,8,6,1,1,2.2,43.07
+270,Niza Calle 127,Molinos,19.124,1,1,TRANSV,21,4,0,0,1.2,57.91
+271,Flores,Avenida Rojas,7.94,7,3,B11,16,1,1,0,1.6,52.63
+272,Marly,Pepe Sierra,7.803,9,0,H19,7,4,1,0,2.0,55.53
+273,Tintal,El Dorado,3.69,1,2,TRANSV,17,2,1,0,2.1,26.01
+274,Toberin,Patio Bonito,16.044,13,0,B11,16,1,1,0,1.6,80.69
+275,Venecia,Portal Américas,10.371,3,2,B11,16,4,1,0,1.6,49.65
+276,Marly,El Tiempo Maloka,7.848,12,1,G14,10,6,0,1,1.3,52.36
+277,Alcalá,El Tiempo Maloka,8.824,1,1,H19,11,0,0,0,1.2,26.62
+278,Cardio Infantil,Portal Américas,17.937,15,3,H19,21,3,0,0,1.2,92.8
+279,Sevillana,Cardio Infantil,16.91,13,2,TRANSV,11,2,0,0,1.2,79.78
+280,Mazuren,Banderas,15.338,5,3,B11,16,3,1,0,1.6,73.93
+281,Las Aguas,Tintal,8.091,6,3,C12,20,5,0,1,1.4,48.3
+282,Patio Bonito,Molinos,11.952,5,3,B11,18,0,1,0,2.3,83.27
+283,Niza Calle 127,Marly,8.902,9,0,H19,15,0,0,0,1.3,43.44
+284,Gratamira,Portal 80,2.346,5,3,G14,18,1,1,0,2.3,36.29
+285,Banderas,Universidades,9.198,1,3,TRANSV,16,4,1,0,1.6,40.34
+286,Portal Sur,Mazuren,17.335,2,1,TRANSV,17,2,1,0,2.1,81.28
+287,Toberin,Calle 45,11.787,14,1,P14,19,0,1,0,1.9,85.18
+288,Alcalá,Sevillana,14.73,13,3,TRANSV,16,2,1,0,1.6,92.46
+289,Parque El Tunal,Cardio Infantil,19.059,10,2,C12,19,2,1,0,1.9,103.05
+290,Las Aguas,Alcalá,11.683,10,3,C12,21,2,0,0,1.2,64.55
+291,Gratamira,Portal Sur,11.683,4,1,B11,5,5,0,1,1.1,35.05
+292,El Dorado,Molinos,13.91,7,2,P14,8,2,1,0,2.2,85.07
+293,Las Aguas,Ricaurte,3.283,10,0,H19,20,1,0,0,1.4,34.75
+294,Calle 63,Alcalá,5.672,8,2,C12,19,0,1,0,1.9,49.96
+295,Banderas,Alcalá,14.652,9,1,P14,14,2,0,0,1.2,59.63
+296,Escuela Militar,Marly,3.115,13,0,H19,21,1,0,0,1.2,40.54
+297,Calle 26,Calle 63,5.673,4,2,G14,5,2,0,0,1.1,30.83
+298,Universidades,Parque El Tunal,5.575,3,2,P14,7,0,1,0,2.0,38.7
+299,Alquería,El Dorado,3.669,9,0,G14,18,6,1,1,2.3,38.74
+300,Calle 63,Portal Américas,14.332,11,2,B11,19,3,1,0,1.9,87.59
+301,Calle 63,Parque El Tunal,11.68,11,1,P14,10,6,0,1,1.3,57.06
+302,Museo del Oro,Portal Usme,10.507,15,1,B11,8,4,1,0,2.2,89.3
+303,Avenida Rojas,Calle 45,8.617,3,2,H19,12,2,0,0,1.4,40.68
+304,Pepe Sierra,Portal Sur,15.361,4,1,TRANSV,22,2,0,0,1.1,47.73
+305,Escuela Militar,Avenida Rojas,7.618,10,1,P14,7,4,1,0,2.0,59.65
+306,Venecia,Niza Calle 127,14.941,3,0,C12,15,6,0,1,1.3,45.68
+307,Toberin,Calle 100,6.262,1,1,TRANSV,23,2,0,0,1.0,18.28
+308,Parque El Tunal,Marsella,7.231,10,2,TRANSV,5,3,0,0,1.1,49.7
+309,Avenida Rojas,El Dorado,2.321,4,3,TRANSV,17,2,1,0,2.1,31.66
+310,Alcalá,Mazuren,1.007,3,3,G14,18,3,1,0,2.3,24.09
+311,Ricaurte,Banderas,7.503,10,2,C12,15,6,0,1,1.3,51.91
+312,Banderas,Marsella,6.437,3,0,H19,21,4,0,0,1.2,24.01
+313,Gratamira,General Santander,9.071,8,1,B11,13,3,0,0,1.3,49.06
+314,Flores,Calle 100,4.47,1,3,H19,17,6,1,1,2.1,33.1
+315,General Santander,Calle 45,7.301,14,2,H19,23,5,0,1,1.0,55.44
+316,Calle 26,Calle 45,4.471,8,2,P14,19,3,1,0,1.9,45.6
+317,El Dorado,Toberin,11.22,2,1,G14,21,3,0,0,1.2,35.23
+318,Ricaurte,Niza Calle 127,11.057,6,3,B11,6,2,1,0,1.5,60.89
+319,Niza Calle 127,El Tiempo Maloka,7.239,5,0,P14,5,6,0,1,1.1,26.06
+320,Museo del Oro,Calle 63,6.648,15,3,H19,16,6,1,1,1.6,68.91
+321,Patio Bonito,Cardio Infantil,14.601,7,1,B11,23,4,0,0,1.0,52.44
+322,Patio Bonito,Parque El Tunal,9.374,5,3,B11,17,4,1,0,2.1,62.34
+323,Biblioteca,Portal Sur,1.572,14,0,P14,8,1,1,0,2.2,42.58
+324,Alquería,Patio Bonito,4.174,13,1,H19,22,2,0,0,1.1,44.84
+325,Calle 26,Calle 76,5.879,9,0,G14,21,0,0,0,1.2,35.18
+326,Cardio Infantil,Flores,8.896,12,3,H19,20,4,0,0,1.4,68.97
+327,Flores,Calle 76,3.22,15,2,P14,9,2,1,0,1.8,57.6
+328,Calle 45,Marsella,5.959,10,2,TRANSV,14,4,0,0,1.2,48.04
+329,Av. Eldorado,Portal Usme,16.043,9,3,G14,23,2,0,0,1.0,68.6
+330,Toberin,Tintal,14.864,6,2,TRANSV,8,3,1,0,2.2,88.36
+331,Escuela Militar,Toberin,9.675,10,1,G14,13,5,0,1,1.3,49.52
+332,Mazuren,Niza Calle 127,2.435,8,3,C12,21,5,0,1,1.2,37.15
+333,Flores,Sevillana,8.845,1,0,P14,8,1,1,0,2.2,40.22
+334,Las Aguas,Gratamira,9.058,7,1,C12,18,5,1,1,2.3,62.22
+335,Marsella,Portal Usme,12.811,13,0,P14,20,6,0,1,1.4,64.15
+336,Calle 63,Molinos,14.491,4,3,P14,15,5,0,1,1.3,52.94
+337,Portal Usme,Tintal,14.112,6,2,C12,19,4,1,0,1.9,75.72
+338,Molinos,Banderas,12.366,11,3,TRANSV,13,4,0,0,1.3,72.67
+339,Calle 26,Sevillana,4.113,5,2,P14,14,1,0,0,1.2,29.91
+340,Portal 80,Ricaurte,9.442,12,3,TRANSV,20,2,0,0,1.4,66.89
+341,Banderas,Parque El Tunal,10.07,15,0,TRANSV,13,2,0,0,1.3,64.17
+342,Parque El Tunal,Molinos,3.01,7,1,G14,16,6,1,1,1.6,30.38
+343,Portal 80,Cardio Infantil,8.09,5,3,TRANSV,7,2,1,0,2.0,56.04
+344,Sevillana,El Dorado,8.869,4,2,C12,22,2,0,0,1.1,36.68
+345,Calle 63,Calle 100,3.463,10,1,TRANSV,23,1,0,0,1.0,36.09
+346,Mazuren,Molinos,20.798,4,0,TRANSV,12,0,0,0,1.4,62.21
+347,Marsella,Portal Américas,8.313,12,1,G14,8,5,1,1,2.2,65.74
+348,Portal Norte,Parque El Tunal,22.631,15,3,C12,18,5,1,1,2.3,143.56
+349,El Tiempo Maloka,Calle 26,5.398,13,0,H19,15,2,0,0,1.3,46.3
+350,Pepe Sierra,Venecia,14.739,4,3,P14,6,1,1,0,1.5,67.13
+351,Marly,Cardio Infantil,11.011,14,2,G14,20,1,0,0,1.4,77.08
+352,Cardio Infantil,Portal Norte,3.612,5,2,P14,8,2,1,0,2.2,37.01
+353,Universidades,Biblioteca,6.573,9,3,G14,9,6,1,1,1.8,55.98
+354,Portal Sur,Calle 26,5.743,13,3,B11,15,1,0,0,1.3,59.41
+355,Sevillana,Marly,7.38,1,2,TRANSV,15,6,0,1,1.3,25.99
+356,Parque El Tunal,Calle 26,6.261,3,3,P14,17,6,1,1,2.1,43.89
+357,Av. Eldorado,Gratamira,2.047,2,1,G14,8,1,1,0,2.2,17.89
+358,El Tiempo Maloka,Gratamira,1.672,15,3,C12,5,2,0,0,1.1,53.29
+359,General Santander,Universidades,2.674,13,0,H19,15,2,0,0,1.3,39.01
+360,Sevillana,Tintal,7.336,12,0,C12,6,5,1,1,1.5,50.57
+361,Universidades,Avenida Rojas,8.802,3,2,G14,21,5,0,1,1.2,36.68
+362,Calle 72,Avenida Rojas,6.963,6,1,P14,12,1,0,0,1.4,38.35
+363,El Tiempo Maloka,Flores,7.054,8,3,TRANSV,16,3,1,0,1.6,55.14
+364,Molinos,Ricaurte,8.144,13,3,C12,7,4,1,0,2.0,78.2
+365,Portal Usme,Patio Bonito,14.11,2,1,P14,8,0,1,0,2.2,69.95
+366,Parque El Tunal,Molinos,3.01,3,3,C12,15,6,0,1,1.3,26.56
+367,Calle 72,Calle 8,8.811,12,3,P14,20,0,0,0,1.4,66.69
+368,Mazuren,El Tiempo Maloka,9.577,3,0,P14,18,3,1,0,2.3,51.74
+369,Biblioteca,Universidades,6.573,11,2,H19,5,3,0,0,1.1,48.95
+370,Portal Norte,Calle 8,18.559,10,2,B11,6,3,1,0,1.5,88.77
+371,Alcalá,Biblioteca,17.899,1,2,B11,20,0,0,0,1.4,62.4
+372,Marsella,Marly,5.985,13,3,C12,18,2,1,0,2.3,73.77
+373,Las Aguas,Tintal,8.091,7,2,B11,22,1,0,0,1.1,44.85
+374,Calle 72,Calle 26,6.501,9,1,G14,21,1,0,0,1.2,44.9
+375,Portal Norte,Cardio Infantil,3.612,5,3,G14,22,3,0,0,1.1,31.89
+376,Calle 8,Sevillana,2.002,8,1,H19,9,2,1,0,1.8,31.55
+377,Calle 72,Cardio Infantil,6.787,13,0,TRANSV,18,4,1,0,2.3,63.97
+378,General Santander,Ricaurte,2.002,2,0,B11,6,3,1,0,1.5,11.88
+379,General Santander,Cardio Infantil,15.959,7,1,G14,12,4,0,0,1.4,63.6
+380,Mazuren,Flores,7.673,9,2,H19,12,6,0,1,1.4,48.39
+381,Parque El Tunal,Calle 76,12.14,13,2,TRANSV,15,1,0,0,1.3,70.61
+382,Flores,Molinos,13.622,4,0,G14,14,2,0,0,1.2,36.91
+383,Biblioteca,Niza Calle 127,17.205,15,3,TRANSV,10,5,0,1,1.3,87.26
+384,Biblioteca,El Dorado,12.042,1,2,H19,17,6,1,1,2.1,55.63
+385,Marsella,Museo del Oro,4.555,3,3,H19,17,1,1,0,2.1,38.77
+386,General Santander,Calle 8,1.001,5,3,TRANSV,9,6,1,1,1.8,27.87
+387,Mazuren,Parque El Tunal,17.859,7,1,G14,22,4,0,0,1.1,67.49
+388,Tintal,General Santander,6.509,5,0,C12,15,5,0,1,1.3,28.71
+389,Las Aguas,Patio Bonito,9.246,2,2,P14,11,0,0,0,1.2,34.12
+390,Tintal,Calle 76,7.539,10,1,B11,7,1,1,0,2.0,57.8
+391,El Tiempo Maloka,Ricaurte,5.555,14,1,H19,14,0,0,0,1.2,52.88
+392,Calle 26,Calle 72,6.501,12,1,G14,12,5,0,1,1.4,48.54
+393,Alquería,General Santander,4.291,9,3,H19,14,3,0,0,1.2,46.37
+394,Molinos,Banderas,12.366,5,3,H19,16,4,1,0,1.6,66.99
+395,Universidades,Calle 100,9.139,13,2,TRANSV,20,6,0,1,1.4,62.49
+396,Ricaurte,Tintal,5.044,6,1,G14,6,4,1,0,1.5,32.4
+397,Flores,Toberin,10.677,5,3,P14,23,4,0,0,1.0,48.75
+398,Portal 80,Flores,8.68,4,1,H19,12,3,0,0,1.4,38.11
+399,El Dorado,Parque El Tunal,10.925,11,3,TRANSV,15,2,0,0,1.3,70.61
+400,El Dorado,Universidades,6.511,3,1,TRANSV,16,1,1,0,1.6,30.26
+401,Molinos,El Dorado,13.91,3,0,P14,6,4,1,0,1.5,47.56
+402,Alcalá,Mazuren,1.007,13,1,B11,18,1,1,0,2.3,41.13
+403,Alcalá,Calle 45,7.791,1,2,C12,21,3,0,0,1.2,29.27
+404,Mazuren,Escuela Militar,6.675,11,3,TRANSV,20,5,0,1,1.4,55.59
+405,Toberin,Portal Norte,1.819,9,0,P14,18,0,1,0,2.3,31.1
+406,Portal Usme,Portal Sur,6.15,9,3,H19,5,4,0,0,1.1,46.72
+407,Marly,Calle 100,6.594,15,1,B11,21,1,0,0,1.2,57.14
+408,Calle 26,Escuela Militar,5.818,9,3,H19,16,2,1,0,1.6,53.26
+409,Pepe Sierra,Tintal,10.92,7,1,G14,23,1,0,0,1.0,44.46
+410,Avenida Rojas,Pepe Sierra,6.913,11,3,TRANSV,6,0,1,0,1.5,61.22
+411,Tintal,Alquería,2.883,9,0,G14,6,5,1,1,1.5,29.64
+412,Calle 45,Pepe Sierra,6.797,8,0,G14,15,4,0,0,1.3,35.59
+413,Portal Usme,Cardio Infantil,24.678,4,2,C12,23,3,0,0,1.0,73.66
+414,Cardio Infantil,Pepe Sierra,3.242,11,0,H19,22,4,0,0,1.1,34.85
+415,Marly,Portal Américas,14.298,1,3,C12,23,1,0,0,1.0,40.96
+416,Alcalá,Gratamira,7.761,3,3,P14,12,4,0,0,1.4,43.64
+417,Molinos,Portal Américas,13.096,7,0,TRANSV,9,6,1,1,1.8,61.02
+418,Av. Eldorado,Banderas,7.251,1,0,B11,18,1,1,0,2.3,37.57
+419,Portal Américas,Calle 76,12.705,13,2,P14,17,6,1,1,2.1,90.22
+420,Toberin,Portal 80,9.255,13,2,G14,20,1,0,0,1.4,70.23
+421,Biblioteca,Tintal,10.095,7,3,C12,23,5,0,1,1.0,50.21
+422,Pepe Sierra,Escuela Militar,4.691,5,2,C12,7,0,1,0,2.0,39.03
+423,Flores,Alquería,6.661,12,3,TRANSV,9,5,1,1,1.8,65.28
+424,Gratamira,Tintal,4.231,2,3,B11,5,2,0,0,1.1,26.85
+425,Patio Bonito,Portal Sur,9.182,2,3,C12,7,1,1,0,2.0,56.24
+426,Las Aguas,Parque El Tunal,5.759,9,0,P14,18,0,1,0,2.3,47.88
+427,Pepe Sierra,Patio Bonito,12.279,9,3,B11,15,6,0,1,1.3,64.43
+428,Portal Norte,Avenida Rojas,11.456,7,1,G14,7,5,1,1,2.0,66.31
+429,Parque El Tunal,Portal Usme,5.649,3,1,TRANSV,17,1,1,0,2.1,33.24
+430,Portal Sur,Gratamira,11.683,5,1,G14,9,0,1,0,1.8,55.79
+431,Museo del Oro,Portal Sur,4.598,7,0,H19,20,6,0,1,1.4,27.12
+432,Patio Bonito,Sevillana,7.939,4,1,TRANSV,20,4,0,0,1.4,35.8
+433,Universidades,Calle 100,9.139,3,2,H19,5,3,0,0,1.1,36.92
+434,Calle 76,Tintal,7.539,13,3,H19,19,2,1,0,1.9,75.41
+435,Niza Calle 127,Calle 63,5.841,5,2,H19,11,3,0,0,1.2,34.61
+436,Marly,Marsella,5.985,6,1,H19,20,4,0,0,1.4,37.71
+437,Gratamira,Alquería,4.813,5,1,G14,16,0,1,0,1.6,30.57
+438,Venecia,Molinos,4.231,3,3,TRANSV,22,0,0,0,1.1,27.37
+439,Ricaurte,Universidades,1.773,13,3,H19,7,6,1,1,2.0,51.04
+440,El Dorado,Calle 63,6.231,11,1,H19,12,2,0,0,1.4,49.43
+441,Museo del Oro,Tintal,7.786,2,3,G14,20,4,0,0,1.4,38.75
+442,Molinos,Av. Eldorado,13.456,15,0,TRANSV,18,4,1,0,2.3,93.84
+443,Patio Bonito,Biblioteca,10.393,10,1,TRANSV,7,0,1,0,2.0,70.39
+444,Banderas,Calle 45,12.32,11,3,P14,6,4,1,0,1.5,73.25
+445,Portal Américas,Las Aguas,12.48,2,1,B11,8,2,1,0,2.2,65.59
+446,Av. Eldorado,Molinos,13.456,9,3,P14,23,1,0,0,1.0,62.4
+447,Patio Bonito,Marsella,4.72,8,1,TRANSV,23,5,0,1,1.0,31.14
+448,Banderas,Toberin,17.583,8,0,B11,14,3,0,0,1.2,60.39
+449,Calle 72,Calle 45,3.242,6,1,H19,15,3,0,0,1.3,26.74
+450,Portal Usme,El Tiempo Maloka,15.907,6,3,G14,8,3,1,0,2.2,96.79
+451,Gratamira,Alcalá,7.761,5,2,B11,8,0,1,0,2.2,56.13
+452,Calle 100,Marly,6.594,15,1,TRANSV,12,4,0,0,1.4,58.66
+453,Biblioteca,Calle 45,10.861,6,1,P14,18,3,1,0,2.3,70.05
+454,Alquería,Marly,6.539,3,0,TRANSV,18,3,1,0,2.3,36.89
+455,Calle 76,Calle 26,5.879,8,0,P14,18,3,1,0,2.3,46.11
+456,Ricaurte,Calle 8,1.001,5,0,TRANSV,7,4,1,0,2.0,16.48
+457,Molinos,Marly,11.852,6,0,H19,11,3,0,0,1.2,40.99
+458,Sevillana,Av. Eldorado,8.351,9,3,TRANSV,15,4,0,0,1.3,55.29
+459,Calle 76,Alquería,6.05,10,3,B11,16,2,1,0,1.6,54.91
+460,Calle 76,Marly,5.072,14,0,TRANSV,14,4,0,0,1.2,49.17
+461,Calle 63,Portal Américas,14.332,2,1,C12,14,0,0,0,1.2,43.5
+462,Patio Bonito,Flores,10.503,9,1,G14,18,4,1,0,2.3,73.34
+463,Parque El Tunal,Tintal,9.02,7,1,C12,20,5,0,1,1.4,44.44
+464,Biblioteca,Calle 45,10.861,8,2,H19,9,1,1,0,1.8,66.85
+465,Las Aguas,Escuela Militar,6.222,1,1,H19,5,3,0,0,1.1,19.91
+466,Calle 26,Alquería,2.827,9,3,P14,20,3,0,0,1.4,42.76
+467,Marsella,Universidades,3.226,8,0,C12,7,4,1,0,2.0,33.39
+468,Calle 8,Avenida Rojas,9.202,1,2,H19,12,4,0,0,1.4,35.29
+469,Calle 45,El Tiempo Maloka,7.401,10,0,TRANSV,20,4,0,0,1.4,44.87
+470,Parque El Tunal,Calle 72,12.628,5,0,P14,16,4,1,0,1.6,52.22
+471,Las Aguas,Biblioteca,6.595,4,1,G14,8,5,1,1,2.2,38.0
+472,Avenida Rojas,Cardio Infantil,8.655,8,0,H19,16,6,1,1,1.6,42.48
+473,Las Aguas,Calle 72,7.2,13,2,C12,11,6,0,1,1.2,57.59
+474,Calle 76,Museo del Oro,7.565,3,1,P14,9,6,1,1,1.8,38.95
+475,Ricaurte,Mazuren,12.901,10,1,H19,22,2,0,0,1.1,56.74
+476,Gratamira,Portal 80,2.346,5,0,P14,13,6,0,1,1.3,18.17
+477,Calle 63,Museo del Oro,6.648,15,1,B11,13,6,0,1,1.3,57.2
+478,Calle 63,Sevillana,9.622,3,1,TRANSV,15,6,0,1,1.3,39.56
+479,Alquería,Av. Eldorado,3.317,3,3,P14,13,5,0,1,1.3,27.87
+480,Tintal,Universidades,6.508,2,2,TRANSV,7,3,1,0,2.0,38.86
+481,Patio Bonito,El Tiempo Maloka,4.154,8,0,H19,23,0,0,0,1.0,27.51
+482,Universidades,Banderas,9.198,14,1,B11,22,3,0,0,1.1,56.28
+483,Museo del Oro,Ricaurte,2.842,8,2,H19,15,6,0,1,1.3,34.65
+484,Portal Américas,Parque El Tunal,11.112,10,3,C12,23,6,0,1,1.0,54.21
+485,Portal Américas,Mazuren,17.115,1,0,B11,19,0,1,0,1.9,62.67
+486,Calle 45,Universidades,4.637,8,1,B11,18,1,1,0,2.3,44.73
+487,Avenida Rojas,Calle 45,8.617,14,2,H19,7,5,1,1,2.0,73.02
+488,Sevillana,Pepe Sierra,13.751,6,3,TRANSV,10,0,0,0,1.3,67.39
+489,Escuela Militar,Avenida Rojas,7.618,12,0,TRANSV,12,3,0,0,1.4,52.67
+490,Calle 100,Portal Norte,8.081,4,1,G14,7,1,1,0,2.0,46.31
+491,Portal Usme,Las Aguas,11.037,1,0,B11,15,6,0,1,1.3,31.15
+492,Museo del Oro,Calle 63,6.648,8,0,B11,12,3,0,0,1.4,38.72
+493,Calle 100,Calle 72,2.346,6,3,H19,14,1,0,0,1.2,32.23
+494,Calle 63,Calle 45,2.124,2,1,P14,23,0,0,0,1.0,13.9
+495,Las Aguas,Banderas,10.768,12,3,C12,9,3,1,0,1.8,81.92
+496,Ricaurte,Pepe Sierra,10.984,15,0,B11,9,6,1,1,1.8,71.47
+497,Venecia,Tintal,7.903,6,1,G14,15,6,0,1,1.3,36.87
+498,General Santander,Portal 80,11.406,11,2,B11,12,4,0,0,1.4,65.44
+499,Toberin,Gratamira,10.696,4,3,P14,21,1,0,0,1.2,44.71
